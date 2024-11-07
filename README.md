@@ -1,1 +1,1 @@
-# selenium-web-scraper
+# web-scraper
