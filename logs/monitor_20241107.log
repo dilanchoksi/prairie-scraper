@@ -1,0 +1,112 @@
+2024-11-07 19:42:26 - INFO - Initializing PrairieTest Monitor...
+2024-11-07 19:42:26 - INFO - Application initialization complete
+2024-11-07 19:42:26 - INFO - Starting main application loop...
+2024-11-07 19:42:29 - INFO - Starting monitoring...
+2024-11-07 19:42:29 - INFO - Starting monitor loop...
+2024-11-07 19:42:29 - INFO - Setting up Chrome WebDriver...
+2024-11-07 19:42:29 - INFO - Using Chrome profile directory: /Users/dilanchoksi/Library/Application Support/ChromeSelenium
+2024-11-07 19:42:38 - INFO - Current URL: https://us.prairietest.com/pt, Is exam page: False
+2024-11-07 19:42:38 - ERROR - Error in monitor loop: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:42:38 - INFO - Status update: Error: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:42:48 - INFO - Current URL: https://us.prairietest.com/pt/student/exam/21647, Is exam page: True
+2024-11-07 19:42:48 - INFO - Status update: Checking for available sessions...
+2024-11-07 19:42:48 - INFO - Checking for available sessions...
+2024-11-07 19:42:48 - INFO - Status update: Matching sessions found:
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+Session: Monday Morning (2 hours)
+2024-11-07 19:42:58 - INFO - Current URL: https://us.prairietest.com/pt/student/reservation/1409003, Is exam page: False
+2024-11-07 19:42:58 - ERROR - Error in monitor loop: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:42:58 - INFO - Status update: Error: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:43:08 - INFO - Current URL: https://us.prairietest.com/pt/student/reservation/1409003, Is exam page: False
+2024-11-07 19:43:08 - ERROR - Error in monitor loop: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:43:08 - INFO - Status update: Error: PrairieTestMonitor.update_status() got an unexpected keyword argument 'warning'
+2024-11-07 19:43:18 - INFO - Current URL: https://us.prairietest.com/pt/student/exam/21647, Is exam page: True
+2024-11-07 19:43:18 - INFO - Status update: Checking for available sessions...
+2024-11-07 19:43:18 - INFO - Checking for available sessions...
+2024-11-07 19:43:19 - INFO - No matching sessions found
+2024-11-07 19:43:19 - INFO - Status update: No matching sessions available
+2024-11-07 19:43:21 - INFO - Stopping monitoring...
+2024-11-07 19:43:21 - INFO - Status update: Monitoring stopped
+2024-11-07 19:43:23 - INFO - Application closing...
+2024-11-07 19:43:23 - INFO - Stopping monitoring...
+2024-11-07 19:43:23 - INFO - Status update: Monitoring stopped
